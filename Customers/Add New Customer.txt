@@ -1,0 +1,25 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          ADD NEW CUSTOMER                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  BASIC INFORMATION:                   CONTACT DETAILS:                     │
+│  Full Name: [Ahmed Mohamed Ali]       Primary Phone: [01234567890]         │                                        
+│  Gender: [Male ▼]                     Email: [ahmed@email.com] (Optional)  │
+│  Date of Birth: [01/01/1990] (Opt)    WhatsApp: [01234567890] (Same)       │
+│                                                                             │
+│  ADDRESS INFORMATION:                 BUSINESS SETTINGS:                    │
+│  Street: [123 Main Street]            Customer Type: [Individual ▼]        │
+│  Area: [Nasr City]                    Segment: [Regular ▼]                 │
+│  City: [Cairo ▼]                      Payment Terms: [Cash on Delivery ▼] │
+│  Governorate: [Cairo ▼]               Credit Limit: [5000] EGP (Optional)  │
+│                                                                             │
+│  PREFERENCES:                         🤖 AI INSIGHTS:                       │
+│  Preferred Contact: [WhatsApp ▼]      "Phone number format looks valid     │
+│  Best Call Time: [Evening ▼]          for Egyptian mobile network"        │
+│  Language: [Arabic ▼]                                                      │
+│  Notes: [Regular customer, prefers                                         │
+│          iPhone products...]                                               │
+│                                                                             │
+│  [Cancel]                      [Save Customer]                             │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘

@@ -1,0 +1,13 @@
+
+[Logo]                                                               (profileImg) [Profile]
+
+Sidebar:                     Main Content:
+├── 📊 Dashboard            ┌─────────────────────────────────┐
+├── 📄 Invoices             │   KPI Cards Row                 │
+├── 🛍️ Products             │ [Total Sales][Orders][Stock]    │
+├── 👥 Customers            │                                 │
+├── 📈 Reports              │   Quick Actions                 │
+├── 🤖 AI Assistant         │ [+ New Invoice][+ Product]      │
+├── ⚙️ Settings             │                                 │
+└── 💡 Support              │   Recent Activity Chart         │
+                            └─────────────────────────────────┘

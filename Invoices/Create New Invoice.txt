@@ -1,0 +1,35 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         CREATE NEW INVOICE                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  CUSTOMER INFORMATION:              INVOICE DETAILS:                       │
+│  Customer: [Select Customer ▼]      Invoice #: INV-005 (Auto)             │
+│  Or Add New: [+ New Customer]       Date: July 24, 2024                   │
+│                                     Due Date: [Aug 23, 2024]               │
+│  Name: [Ahmed Mohamed]                                                     │
+│  Phone: [01234567890]               💳 PAYMENT INFO:                       │
+│  Address: [Cairo, Egypt]            Payment Method: [Cash ▼]               │
+│                                     Notes: [Optional notes...]             │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │                        PRODUCTS TABLE                               │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │ Product        | Qty | Unit Price | 🤖 AI Tip    | Total    | ❌     │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │ iPhone 15      | 1   | [25,000]   | 💡 Market:   | 25,000   | ❌     │   │
+│  │                |     |            | 24K-26K EGP  |          |        │   │
+│  │ AirPods Pro    | 2   | [3,500]    | 💡 Good      | 7,000    | ❌     │   │
+│  │                |     |            | price!       |          |        │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                             │
+│  [+ Add Product] [+ Add Custom Item]                                       │
+│                                                                             │
+│  INVOICE SUMMARY:                           COST BREAKDOWN:                │
+│  Subtotal: 32,000 EGP                     • Invoice Creation: 2.00 EGP    │
+│  Tax (14%): 4,480 EGP                     • AI Suggestions: 1.00 EGP     │
+│  Discount: -500 EGP                       • WhatsApp Send: 1.00 EGP       │
+│  TOTAL: 35,980 EGP                        Your Credit: 127.50 EGP         │
+│                                                                             │
+│  [Save Draft] [Preview] [Create Invoice] [Create & Send WhatsApp]          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘

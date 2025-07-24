@@ -1,0 +1,27 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         PRODUCT DETAILS                                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  📱 [Product Image]       IPHONE 15 PRO MAX                               │
+│                          SKU: IP15PM-BK                                    │
+│                          Category: Electronics                             │
+│                                                                             │
+│  PRICING:                           INVENTORY:                             │
+│  Cost: 23,000 EGP                  Current Stock: 12 units                │
+│  Selling: 25,000 EGP               Reserved: 2 units                      │
+│  Profit: 2,000 EGP (8.7%)          Available: 10 units                   │
+│                                     Min Alert: 5 units                     │
+│                                                                             │
+│  SALES PERFORMANCE:                 RECENT ACTIVITY:                       │
+│  Total Sold: 45 units              • Jul 24: Sold 2 units (INV-005)      │
+│  Revenue: 1,125,000 EGP            • Jul 23: Stock added +10 units        │
+│  Best Month: June (15 units)       • Jul 22: Sold 1 unit (INV-004)       │
+│                                                                             │
+│  🤖 AI RECOMMENDATIONS:                                                     │
+│  • "Consider restocking - selling 3 units/week on average"                │
+│  • "Price is competitive with market (24K-26K range)"                     │
+│  • "Bundle with AirPods for higher sales volume"                          │
+│                                                                             │
+│  [Edit Product]  [Add Stock] [View Sales History] [Delete]     │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘

@@ -1,0 +1,32 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          INVOICE PREVIEW                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  [FatoraAI Logo]                                    INVOICE #INV-005       │
+│  Your Business Name                                 Date: July 24, 2024    │
+│  Cairo, Egypt                                       Due: Aug 23, 2024      │
+│  Phone: +20 10 1234 5678                                                  │
+│                                                                             │
+│  BILL TO:                           SHIP TO:                               │
+│  Ahmed Mohamed                      Ahmed Mohamed                          │
+│  01234567890                        Cairo, Egypt                           │
+│  Cairo, Egypt                                                              │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │ Description    | Qty | Unit Price | Total      |                    │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │ iPhone 15      | 1   | 25,000 EGP | 25,000 EGP |                    │   │
+│  │ AirPods Pro    | 2   | 3,500 EGP  | 7,000 EGP  |                    │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                             │
+│                                           Subtotal: 32,000 EGP             │
+│                                           Tax (14%): 4,480 EGP             │
+│                                           Discount: -500 EGP               │
+│                                           TOTAL: 35,980 EGP                │
+│                                                                             │
+│  Payment Terms: Net 30 days                                               │
+│  Thank you for your business!                                              │
+│                                                                             │
+│  [Edit] [Download PDF] [Print] [Send WhatsApp] [Send Email] [Mark Paid]   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘

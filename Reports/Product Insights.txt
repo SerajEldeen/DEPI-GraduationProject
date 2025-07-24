@@ -1,0 +1,15 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                        PRODUCT INSIGHTS                                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  TOP PERFORMERS:                    NEEDS ATTENTION:                       │
+│  1. iPhone 15 (45 sold)            1. Samsung Tablet (0 sold this month)  │
+│  2. AirPods Pro (32 sold)          2. Power Bank (Only 1 left in stock)   │
+│  3. iPhone Charger (28 sold)       3. Phone Case (Price too high?)        │
+│                                                                             │
+│  INVENTORY ALERTS:                  🤖 AI RECOMMENDATIONS:                  │
+│  ⚠️ 15 products low stock           • Reorder iPhone accessories           │
+│  ❌ 12 products out of stock        • Consider discount on slow movers     │
+│  📦 Total inventory: 2.5M EGP       • Bundle deals for electronics        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘

@@ -1,0 +1,29 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          ADD NEW PRODUCT                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  BASIC INFORMATION:                   PRICING & INVENTORY:                 │
+│  Product Name: [iPhone 15 Pro Max]    Cost Price: [23,000] EGP             │
+│  SKU: [IP15PM-BK] (Auto)             Selling Price: [25,000] EGP           │
+│  Category: [Electronics ▼]            💡 AI Suggestion: 25,200 EGP         │
+│  Brand: [Apple]                       Profit Margin: 8.7%                  │
+│                                                                             │
+│  DESCRIPTION:                         STOCK MANAGEMENT:                     │
+│  [iPhone 15 Pro Max with 256GB       Current Stock: [12] units             │
+│   storage, Black Color, Brand new    Min Stock Alert: [5] units            │
+│   with warranty...]                  Supplier: [Tech Supplier]             │
+│                                                                             │
+│  PRODUCT IMAGE:                       ADDITIONAL INFO:                      │
+│  [📷 Upload Image]                    Barcode: [123456789012]               │
+│  [Drag & drop or click]               Weight: [0.2] kg                      │
+│                                       Dimensions: [15x7x1] cm              │
+│                                                                             │
+│  SALES SETTINGS:                      🤖 AI INSIGHTS:                       │
+│  ☑️ Active for sale                   "Similar products sell for           │
+│  ☑️ Track inventory                   24K-26K EGP in Egyptian market.      │
+│  ☑️ Allow backorders                  Your price is competitive."          │
+│  Tax Rate: [14%]                                                           │
+│                                                                             │
+│  [Cancel]                                         [Save Product]              │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
