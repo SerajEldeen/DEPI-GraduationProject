@@ -9,5 +9,5 @@ Sidebar:                     Main Content:
 ├── 📈 Reports              │   Quick Actions                 │
 ├── 🤖 AI Assistant         │ [+ New Invoice][+ Product]      │
 ├── ⚙️ Settings             │                                 │
-└── 💡 Support              │   Recent Activity Chart         │
+                            │   Recent Activity Chart         │
                             └─────────────────────────────────┘
