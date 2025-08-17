@@ -1,8 +1,8 @@
-# FatoraAI
+# PayFlow
 
 ## Smart Business Management for Egyptian Startups
 
-**FatoraAI** is a modern business management platform tailored for startups and small businesses in Egypt. It empowers entrepreneurs to **track inventory**, **manage products**, **store customer data**, **generate professional invoices**, and most importantly — gain **real-time insights** and **AI-powered assistance** based on their **own business data**.
+**PayFlow** is a modern business management platform tailored for startups and small businesses in Egypt. It empowers entrepreneurs to **track inventory**, **manage products**, **store customer data**, **generate professional invoices**, and most importantly — gain **real-time insights** and **AI-powered assistance** based on their **own business data**.
 
 ---
 
@@ -28,9 +28,9 @@
 
 ---
 
-### Why FatoraAI?
+### Why PayFlow?
 
-Unlike general ERP systems like Odoo, **FatoraAI** is built with **simplicity, speed, and smart AI insights** in mind — designed specifically for **Egyptian entrepreneurs** who want to grow their businesses **without needing a full tech team**.
+Unlike general ERP systems like Odoo, **PayFlow** is built with **simplicity, speed, and smart AI insights** in mind — designed specifically for **Egyptian entrepreneurs** who want to grow their businesses **without needing a full tech team**.
 
 ---
 
